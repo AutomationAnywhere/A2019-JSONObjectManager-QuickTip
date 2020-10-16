@@ -1,0 +1,57 @@
+{
+	"comapny_name": "ABC Ventures",
+	"company_street_address": "1234 Redding Road",
+	"company_city": "Dayton",
+	"company_state": "OH",
+	"company_zip": "45459",
+	"annual_revenue": "$500,000",
+	"employees": [{
+			"id": "3898",
+			"first_name": "Morton",
+			"last_name": "Ife",
+			"email": "mife62@apache.org",
+			"primary_office": "US.CA.SFO.B0001.F40",
+			"department": "SALES"
+		},
+		{
+			"id": "3916",
+			"first_name": "Arleen",
+			"last_name": "Kettles",
+			"email": "akettles63@indiegogo.com",
+			"primary_office": "US.CA.SFO.B0001.F40",
+			"department": "HR"
+		},
+		{
+			"id": "6883",
+			"first_name": "Hurlee",
+			"last_name": "Pithcock",
+			"email": "hpithcock64@amazon.com",
+			"primary_office": "US.CA.SFO.B0001.F42",
+			"department": "MFG"
+		},
+		{
+			"id": "2275",
+			"first_name": "Maryellen",
+			"last_name": "Pears",
+			"email": "mpears65@pcworld.com",
+			"primary_office": "US.CA.SFO.B0001.F40",
+			"department": "OPS"
+		},
+		{
+			"id": "1179",
+			"first_name": "Sonny",
+			"last_name": "Spencock",
+			"email": "sspencock66@cloudflare.com",
+			"primary_office": "US.CA.SFO.B0001.F40",
+			"department": "IT"
+		},
+		{
+			"id": "3561",
+			"first_name": "Ninnetta",
+			"last_name": "Kingman",
+			"email": "nkingman67@sfgate.com",
+			"primary_office": "US.CA.SFO.B0001.F41",
+			"department": "CS"
+		}
+	]
+}
